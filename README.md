@@ -4,3 +4,13 @@ This repository consists of 14 day workshop conducted by NASSCOM AND VSD on Digi
 This workshop contains 5 modules 
 
 1.module-1: Inception of open-source EDA,OPENLANE and Sky130 PDK 
+
+2.module-2: Good floorplan vs Bad floorplan and introduction to library cells
+
+3.module-3:Design library cell using Magic Layout and Ngspice charachterization 
+
+4.module-4:Pre-Layout Timing analysis and importance of good clock tree
+
+5.module-5:Final steps for RTL2GDS using tritonRoute and openSta
+
+
