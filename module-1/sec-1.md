@@ -19,12 +19,14 @@ Lets take an example of package ,QFN-48 .The QFN-48 Package has 48 pins and size
 ![image](https://github.com/user-attachments/assets/4a11f75d-72b2-486f-b5d5-2a74e2a16b6b)
 
 If we openup the chip we have various kinds of components such as Pads, Die,Core etc.,
+![image](https://github.com/user-attachments/assets/17ebda03-7898-4345-a98a-0e0c32038ab8)
 
-Pads: A component through which we can send the signals inside or outside of the chip\
+Pads: A component through which we can send the signals inside or outside of the chip
 
 Die: defines the entire size of the chip
 
 Core: the centre of the chip  where all the digital logics are placed
+
 
 If we take an example of RISC-V,it look like
 
