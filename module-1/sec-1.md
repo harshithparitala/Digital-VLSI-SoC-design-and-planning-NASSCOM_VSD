@@ -59,3 +59,8 @@ The major components of system software are operating system(os), Compiler and A
 ![image](https://github.com/user-attachments/assets/48098144-3002-423e-886b-dae1259136ef)
 The operating system is take the app and convert into assembly program and then finally into binary language program
 Theoutput of the os is in the functions of C/C++/JAVA etc., these are taken by compiler and converts into Instructions .These instructions are taken by Assembler and converts into binary language.
+![image](https://github.com/user-attachments/assets/5a258569-d622-4bb7-926c-9b53d76c3600)
+
+For example
+
+Foa a add instruction ,the output of the assembler is the binary , we need an rtl which implements the spection for implementing the instruction set and rtl is synthesised into an netlist [digital logics],from netlist to hardware is called the physical design implementation of the netlist 
