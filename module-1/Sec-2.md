@@ -53,5 +53,8 @@ detailed: the positions that are obtained from global placemnt are minimally alt
 
 Clock Tree Synthesis:
 ----------------------
+![image](https://github.com/user-attachments/assets/5276c0c3-18b9-4c49-9283-e52e47b9b0e4)
+
+Routing:
 
 
