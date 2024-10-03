@@ -49,5 +49,9 @@ global:
 optimum position for all cells
 
 detailed: the positions that are obtained from global placemnt are minimally altered
+![image](https://github.com/user-attachments/assets/3f379845-acba-457e-82f9-f4ac2a5c4d13)
+
+Clock Tree Synthesis:
+----------------------
 
 
