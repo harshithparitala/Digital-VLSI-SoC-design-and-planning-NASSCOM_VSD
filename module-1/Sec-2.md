@@ -5,16 +5,14 @@ ASIC design
 ![image](https://github.com/user-attachments/assets/61403ae8-2cd5-4ebc-a0e6-abadfae676c1)
 
 What is PDK?
+
 PDK stands for Process Design Kit 
-Collection of files used to modal a fabrication process for the EDA tools used to design an IC 
-
+Collection of files used to modal a fabrication process for the EDA tools used to design an IC ;
 Process Design Rules: DRC,LVS,PEX
-
 
 OPEN SOURCE DIGITAL ASIC DESIGN
 ----------------------------------------
-
-
+![image](https://github.com/user-attachments/assets/b3459d41-6d82-4ca0-ae92-1d0df95a592d)
 
 EDA TOOLS 
 ----------------------------------------------------
