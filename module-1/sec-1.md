@@ -52,3 +52,11 @@ the flow starts from architecture and implemented using rtl and rtl to layout .
 
 ![image](https://github.com/user-attachments/assets/1d8db591-15a7-4578-9ff5-dc7a4d2af985)
 
+In the third lecture disscused about flow from software applications to hardware 
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+The software applications enter into a block called  system-software . system software converts the software application programm into binary language.
+
+The major components of system software are operating system(os), Compiler and Assembler
+
+The operating system is take the app and convert into assembly program and then finally into binary language program
+Theoutput of the os is in the functions of C/C++/JAVA etc., these are taken by compiler and converts into Instructions .These instructions are taken by Assembler and converts into binary language.
