@@ -78,5 +78,9 @@ OpenRoad: Used for Physical Implementation
 
 YOSYS: Used for Logic Equivalence Check [LEC]
 
+![image](https://github.com/user-attachments/assets/f05e188d-f92a-48a7-8db1-9a51bdb33da4)
+
+Magic:
+Used for Physical Verification DRC & LVS
 
 
