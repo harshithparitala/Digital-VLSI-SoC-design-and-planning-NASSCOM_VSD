@@ -26,7 +26,7 @@ Pads: A component through which we can send the signals inside or outside of the
 Die: defines the entire size of the chip
 
 Core: the centre of the chip  where all the digital logics are placed
-
+![image](https://github.com/user-attachments/assets/d549117d-0a4e-4e79-a238-90f2c21b5b74)
 
 If we take an example of RISC-V,it look like
 
