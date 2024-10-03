@@ -29,7 +29,7 @@ Core: the centre of the chip  where all the digital logics are placed
 ![image](https://github.com/user-attachments/assets/d549117d-0a4e-4e79-a238-90f2c21b5b74)
 
 If we take an example of RISC-V,it look like
-
+![image](https://github.com/user-attachments/assets/159f9c5a-ccee-4c9a-a7dd-edd48416946f)
 typical chip consists of Pll,AD,DAC,SRAM  and these are called foundaryIPS
 
 FoundaryIPS :Foundry IP refers to intellectual property (IP) blocks and libraries used in foundries, which are companies that manufacture integrated circuits
