@@ -69,6 +69,10 @@ Introduction to OpenLane ASIC design Flow
 ![image](https://github.com/user-attachments/assets/400212be-debb-4384-98c0-cdafb4a9e878)
 
 Fault:
+![image](https://github.com/user-attachments/assets/994cd900-0423-44db-a01c-d9aceedf70e2)
+
+OpenRoad: Used for Physical Implementation
+
 
 
 
