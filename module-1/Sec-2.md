@@ -15,6 +15,8 @@ OPEN SOURCE DIGITAL ASIC DESIGN
 ![image](https://github.com/user-attachments/assets/b3459d41-6d82-4ca0-ae92-1d0df95a592d)
 
 EDA TOOLS 
-----------------------------------------------------
+
+![image](https://github.com/user-attachments/assets/780a31df-7d45-4c0b-9553-a1fc955032da)
 
 ASIC DESIGN FLOW
+--------------------------------------------------------------------
