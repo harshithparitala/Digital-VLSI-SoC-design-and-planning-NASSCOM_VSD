@@ -12,6 +12,7 @@ The entire board can be describes as shown in figure
 This consists of ADC, DAC, SRAM, UART,VCC/GND,I2C,SDRAM Chip and etc., there are there in typical ardunio board 
 
 If , we open up on chip,it will loook like
+![image](https://github.com/user-attachments/assets/e536e46e-0213-4c7d-9109-4d525ec55292)
 
 
 Lets take an example of package ,QFN-48 .
