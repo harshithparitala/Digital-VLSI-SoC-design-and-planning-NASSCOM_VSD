@@ -82,5 +82,6 @@ YOSYS: Used for Logic Equivalence Check [LEC]
 
 Magic:
 Used for Physical Verification DRC & LVS
+![image](https://github.com/user-attachments/assets/752eec12-b651-4eee-9111-86e6c1454122)
 
 
