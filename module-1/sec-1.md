@@ -1,7 +1,7 @@
 Title: How to talk to Computers 
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 In the lecture 1 we disscused about Introduction to QFN-48,Package,Die,Core and IP's
-
+------------------------------------------------------------------------------------------------------------------------------
 ![image](https://github.com/user-attachments/assets/58f6da45-1282-499a-89b8-46f8cf8eab01)
 
 The highlighted one is the PROCESSOR/SOC connected along with other peripherals or interfacess .
@@ -37,9 +37,9 @@ typical chip consists of Pll,AD,DAC,SRAM  and these are called foundaryIPS
 FoundaryIPS :Foundry IP refers to intellectual property (IP) blocks and libraries used in foundries, which are companies that manufacture integrated circuits
 
 SOC,SPI Are called MACROS which are purely digital blocks.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
-In the second we talk about RISC-V Instruction set ,
 
+In the second lecture we talk about RISC-V Instruction set ,
+-------------------------------------------------------------------------------------------------------------------------------------------------------
 For example , a c-program thats nedds to be run on computer or  a layout which is the interior of the chip,we need to compile into its assembly language is then converted into machine learning programm which is binary zeros and ones.
 
 ![image](https://github.com/user-attachments/assets/109e7823-ed6c-47d6-8f9d-2bfa1e961744)
@@ -51,4 +51,4 @@ The another interface which is present between RISC-V AND Layout is Hardware Des
 the flow starts from architecture and implemented using rtl and rtl to layout .
 
 ![image](https://github.com/user-attachments/assets/1d8db591-15a7-4578-9ff5-dc7a4d2af985)
------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
