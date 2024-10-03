@@ -1,4 +1,4 @@
-Title: Soc Design and OpenLane
+![image](https://github.com/user-attachments/assets/b9e76e2f-98c5-4676-9534-e8a3cdcb6f5d)Title: Soc Design and OpenLane
 -----------------------------------------------------------
 ASIC design
 -------------
