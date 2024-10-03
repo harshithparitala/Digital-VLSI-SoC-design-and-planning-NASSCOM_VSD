@@ -62,5 +62,6 @@ Theoutput of the os is in the functions of C/C++/JAVA etc., these are taken by c
 ![image](https://github.com/user-attachments/assets/5a258569-d622-4bb7-926c-9b53d76c3600)
 
 For example
-
+---------------------------------------------
 Foa a add instruction ,the output of the assembler is the binary , we need an rtl which implements the spection for implementing the instruction set and rtl is synthesised into an netlist [digital logics],from netlist to hardware is called the physical design implementation of the netlist 
+![image](https://github.com/user-attachments/assets/834c8967-a651-4436-8e69-4d1d9a55cc2d)
