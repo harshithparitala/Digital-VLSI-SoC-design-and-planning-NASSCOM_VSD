@@ -32,6 +32,8 @@ If we take an example of RISC-V,it look like
 ![image](https://github.com/user-attachments/assets/159f9c5a-ccee-4c9a-a7dd-edd48416946f)
 typical chip consists of Pll,AD,DAC,SRAM  and these are called foundaryIPS
 
+![image](https://github.com/user-attachments/assets/9e54cd99-66f8-4aae-9dbd-39221d95d3fe)
+
 FoundaryIPS :Foundry IP refers to intellectual property (IP) blocks and libraries used in foundries, which are companies that manufacture integrated circuits
 
 SOC,SPI Are called MACROS which are purely digital blocks.
