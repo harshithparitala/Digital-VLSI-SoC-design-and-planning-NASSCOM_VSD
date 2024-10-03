@@ -37,7 +37,7 @@ typical chip consists of Pll,AD,DAC,SRAM  and these are called foundaryIPS
 FoundaryIPS :Foundry IP refers to intellectual property (IP) blocks and libraries used in foundries, which are companies that manufacture integrated circuits
 
 SOC,SPI Are called MACROS which are purely digital blocks.
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 In the second we talk about RISC-V Instruction set ,
 
 For example , a c-program thats nedds to be run on computer or  a layout which is the interior of the chip,we need to compile into its assembly language is then converted into machine learning programm which is binary zeros and ones.
@@ -50,5 +50,5 @@ The another interface which is present between RISC-V AND Layout is Hardware Des
 
 the flow starts from architecture and implemented using rtl and rtl to layout .
 
-
-
+![image](https://github.com/user-attachments/assets/1d8db591-15a7-4578-9ff5-dc7a4d2af985)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
