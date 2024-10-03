@@ -15,11 +15,8 @@ If , we open up on chip,it will loook like
 ![image](https://github.com/user-attachments/assets/e536e46e-0213-4c7d-9109-4d525ec55292)
 
 
-Lets take an example of package ,QFN-48 .
-
-
-The QFN-48 Package has 48 pins and size of the package as 7mm 
-
+Lets take an example of package ,QFN-48 .The QFN-48 Package has 48 pins and size of the package as 7mm 
+![image](https://github.com/user-attachments/assets/4a11f75d-72b2-486f-b5d5-2a74e2a16b6b)
 
 If we openup the chip we have various kinds of components such as Pads, Die,Core etc.,
 
