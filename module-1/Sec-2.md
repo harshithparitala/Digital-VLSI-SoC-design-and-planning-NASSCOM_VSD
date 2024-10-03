@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/b9e76e2f-98c5-4676-9534-e8a3cdcb6f5d)Title: Soc Design and OpenLane
+SOC Design and OpenLane
 -----------------------------------------------------------
 ASIC design
 -------------
@@ -33,3 +33,4 @@ for macroflooring there will be Dimensions ,PinLocations and Rows
 ![image](https://github.com/user-attachments/assets/ee0cbbf1-9dae-4466-81cb-5fb3e7022fdc)
 
 Power Planning: Power Networks are construcetd in terms of multiple vdd and grounds ,these are connected to all components verticall or horizantal, these are having less resistance due to these are metal surfaces
+![image](https://github.com/user-attachments/assets/316123f5-a19c-4817-95f3-47f47b723a96)
