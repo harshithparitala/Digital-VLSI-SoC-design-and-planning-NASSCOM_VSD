@@ -23,5 +23,8 @@ ASIC DESIGN FLOW
 ![image](https://github.com/user-attachments/assets/5608253d-dd07-43c0-a735-5c42315dcdfa)
 
 Synthesis:
-
 Converts RTL to a circuit out of components from the standard cell library
+![image](https://github.com/user-attachments/assets/0058cbd9-c19e-47db-93d4-62ee9318d9b8)
+
+Floor and Power Planning: Partition the chip die between differnt system building blocks and place input output Pads 
+
