@@ -42,4 +42,12 @@ Power Networks are construcetd in terms of multiple vdd and grounds ,these are c
 
 Placement:
 ---------
+![image](https://github.com/user-attachments/assets/bd510375-1d2b-4c54-96c2-07a18fa7af9a)
+
+these are two kinds :
+global:
+optimum position for all cells
+
+detailed: the positions that are obtained from global placemnt are minimally altered
+
 
