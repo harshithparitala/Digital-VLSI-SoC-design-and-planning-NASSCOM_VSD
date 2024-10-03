@@ -56,5 +56,8 @@ Clock Tree Synthesis:
 ![image](https://github.com/user-attachments/assets/5276c0c3-18b9-4c49-9283-e52e47b9b0e4)
 
 Routing:
+----------
+![image](https://github.com/user-attachments/assets/c6b38024-af44-4c76-ae63-d4dad6b71d2f)
+
 
 
