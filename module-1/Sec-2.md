@@ -29,3 +29,7 @@ Converts RTL to a circuit out of components from the standard cell library
 Floor and Power Planning: Partition the chip die between differnt system building blocks and place input output Pads 
 
 for macroflooring there will be Dimensions ,PinLocations and Rows
+
+![image](https://github.com/user-attachments/assets/ee0cbbf1-9dae-4466-81cb-5fb3e7022fdc)
+
+Power Planning: Power Networks are construcetd in terms of multiple vdd and grounds ,these are connected to all components verticall or horizantal, these are having less resistance due to these are metal surfaces
