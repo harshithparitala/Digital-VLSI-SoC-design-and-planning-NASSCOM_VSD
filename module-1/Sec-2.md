@@ -28,3 +28,4 @@ Converts RTL to a circuit out of components from the standard cell library
 
 Floor and Power Planning: Partition the chip die between differnt system building blocks and place input output Pads 
 
+for macroflooring there will be Dimensions ,PinLocations and Rows
