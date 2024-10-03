@@ -46,8 +46,7 @@ For example , a c-program thats nedds to be run on computer or  a layout which i
 
 The another interface which is present between RISC-V AND Layout is Hardware Description Language .We need to implement the RISC-V architecture specification using hdl .
 
-
-
+![image](https://github.com/user-attachments/assets/bc2e283c-8d7b-4b7b-adb0-7773152b628c)
 
 the flow starts from architecture and implemented using rtl and rtl to layout .
 
