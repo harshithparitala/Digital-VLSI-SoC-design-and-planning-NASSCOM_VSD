@@ -42,7 +42,12 @@ In the second we talk about RISC-V Instruction set ,
 
 For example , a c-program thats nedds to be run on computer or  a layout which is the interior of the chip,we need to compile into its assembly language is then converted into machine learning programm which is binary zeros and ones.
 
+![image](https://github.com/user-attachments/assets/109e7823-ed6c-47d6-8f9d-2bfa1e961744)
+
 The another interface which is present between RISC-V AND Layout is Hardware Description Language .We need to implement the RISC-V architecture specification using hdl .
+
+
+
 
 the flow starts from architecture and implemented using rtl and rtl to layout .
 
