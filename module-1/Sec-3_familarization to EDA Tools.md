@@ -30,8 +30,17 @@ After entering into openlane we move to docker where we will access to all the t
 After that we import the the packages that are required for the design and setup for the design
 In this we choosen the design as Picorv32a
 
-![Screenshot from 2024-10-04 20-01-57](https://github.com/user-attachments/assets/0c6e47a3-5b1a-42d6-90f4-861b5c19a19a)
+![Screenshot from 2024-10-04 20-12-17](https://github.com/user-attachments/assets/31910c8c-3b56-4a6c-8d16-0275a8a57deb)
 
 Reviewing files after design prep
+---
+In this lecture we reviewed the design picorv32a . Some parameters of the design like clockperiod , buffers, synthesis configuration , floor planning configuration using command below :
+
+path:~/Desktop/work/tools/openlane_working_dir/openlane/designs/picorv32a/runs/04-10_14-38$ less config.tcl
+--
+
+
+we explored other vrious options such tmp, results etc.,
+
 
 
