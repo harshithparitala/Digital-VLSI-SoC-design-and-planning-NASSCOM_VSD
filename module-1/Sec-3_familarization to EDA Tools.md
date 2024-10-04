@@ -61,9 +61,10 @@ the total number of cells :
 ![Screenshot from 2024-10-04 21-33-11](https://github.com/user-attachments/assets/f9fd49cd-d561-4e29-ab05-cedc0b538e97)
 
 flop ratio:
-
-
+                   =1656/14876
+                   =11.13%
 verified the number of d_flipflops and cells using static reports 
 
 ![Screenshot from 2024-10-04 21-38-13](https://github.com/user-attachments/assets/207cb597-dd1e-4ae2-a976-bc08b4f79abd)
+![Screenshot from 2024-10-04 21-38-29](https://github.com/user-attachments/assets/c600c7fd-5573-4215-bb2b-b0e6b7b58350)
 
