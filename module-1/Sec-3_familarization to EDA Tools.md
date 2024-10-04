@@ -64,7 +64,7 @@ flop ratio:
                    =1613/14876
                    =10.84%
 
-
+![image](https://github.com/user-attachments/assets/202b00fd-3923-428b-8d11-2fc6cefda502)
 
                    
 verified the number of d_flipflops and cells using static reports 
