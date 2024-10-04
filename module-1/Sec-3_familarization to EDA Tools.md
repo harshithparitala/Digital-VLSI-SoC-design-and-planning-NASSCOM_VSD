@@ -16,3 +16,8 @@ Opening the OpenLane EDA tool using linux commands from the terminal:
 
 Path:~/Desktop/work/tools/openlane_working_dir$ cd openlane
 ------
+
+Design Preparation Step
+----------------------
+After entering into openlane we move to docker where we will access to all the tools available in openlane .After that we use the command to enter into interactive mode for step by step flow.
+
