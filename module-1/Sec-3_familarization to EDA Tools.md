@@ -43,5 +43,25 @@ path:~/Desktop/work/tools/openlane_working_dir/openlane/designs/picorv32a/runs/0
 
 we explored other vrious options such tmp, results etc.,
 
+Synthesis Results
+--------------------------
+
+chip area of the module is :
+
+
+flop ratio:
+--
+flop ratio is given number of D flipflops given total number of cells
+
+the total number of D-flipflops :
+
+
+the total number of cells :
+
+
+flop ratio:
+
+
+verified the number of d_flipflops and cells using static reports 
 
 
