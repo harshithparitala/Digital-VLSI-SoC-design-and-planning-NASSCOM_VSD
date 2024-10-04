@@ -65,4 +65,5 @@ flop ratio:
 
 verified the number of d_flipflops and cells using static reports 
 
+![Screenshot from 2024-10-04 21-38-13](https://github.com/user-attachments/assets/207cb597-dd1e-4ae2-a976-bc08b4f79abd)
 
