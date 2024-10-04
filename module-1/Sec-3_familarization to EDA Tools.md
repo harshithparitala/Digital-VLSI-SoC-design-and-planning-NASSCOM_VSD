@@ -14,3 +14,5 @@ Opening the OpenLane EDA tool using linux commands from the terminal:
 
 ![Screenshot from 2024-10-04 19-31-42](https://github.com/user-attachments/assets/8308cde6-0254-42cb-a143-9f4443f96a35)
 
+Path:~/Desktop/work/tools/openlane_working_dir$ cd openlane
+------
