@@ -39,6 +39,7 @@ In this lecture we reviewed the design picorv32a . Some parameters of the design
 path:~/Desktop/work/tools/openlane_working_dir/openlane/designs/picorv32a/runs/04-10_14-38$ less config.tcl
 --
 
+![Screenshot from 2024-10-04 20-58-45](https://github.com/user-attachments/assets/25f5c16e-094a-45e1-974b-4c48d28f0e2a)
 
 we explored other vrious options such tmp, results etc.,
 
