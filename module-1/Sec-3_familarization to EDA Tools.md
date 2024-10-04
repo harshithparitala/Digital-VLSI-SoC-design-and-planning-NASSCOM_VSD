@@ -21,6 +21,10 @@ Design Preparation Step
 ----------------------
 After entering into openlane we move to docker where we will access to all the tools available in openlane .After that we use the command to enter into interactive mode for step by step flow.
 
+![image](https://github.com/user-attachments/assets/2848ed59-3ce0-4c43-bd8d-1eea6ab7451d)
+
+
+
 ![Screenshot from 2024-10-04 20-01-57](https://github.com/user-attachments/assets/0c6e47a3-5b1a-42d6-90f4-861b5c19a19a)
 
 After that we import the the packages that are required for the design and setup for the design
