@@ -55,6 +55,7 @@ flop ratio is given number of D flipflops given total number of cells
 
 the total number of D-flipflops :
 
+![Screenshot from 2024-10-04 21-52-31](https://github.com/user-attachments/assets/e770f7c8-d4c3-40e8-8444-30a1035a613a)
 
 the total number of cells :
 
