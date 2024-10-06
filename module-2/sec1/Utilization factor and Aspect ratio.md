@@ -33,3 +33,4 @@ Another example where the dimensions of the netlist is same and core is differen
 In this case the utilization factor is 0.5
 And Aspect ratio is also 0.5
 
+![Screenshot 2024-10-06 103746](https://github.com/user-attachments/assets/5168dd59-b0d1-4952-a1bf-0d5750bf4cd5)
