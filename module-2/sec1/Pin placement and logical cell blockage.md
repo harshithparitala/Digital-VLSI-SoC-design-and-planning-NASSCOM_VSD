@@ -10,6 +10,8 @@ driven by clk 2
 
 along with there are pre placed cells connect with din and output are connect to logic gates and another pre plced cell block b takes input from clks and give clock out
 
+![image](https://github.com/user-attachments/assets/6ae6eb14-0cf7-42e8-b9a4-5e5b2f1802a8)
+
 
 Asuume another section with same design which has two flipflops and two different clks  and another one with same but opposite clocks and block c pre placed cell is connected 
 
