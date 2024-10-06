@@ -3,7 +3,7 @@ Pin placement and logical cell blockage
 Lets take an example with two different flipflops with different colors and another section with different flipflop and clocks .
 
 drive by clock 1
-
+![image](https://github.com/user-attachments/assets/04f25190-aee1-420d-ae24-532bb20005f8)
 driven by clk 2
 
 along with there are pre placed cells connect with din and output are connect to logic gates and another pre plced cell block b takes input from clks and give clock out
