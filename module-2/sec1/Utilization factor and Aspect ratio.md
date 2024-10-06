@@ -21,7 +21,9 @@ If we place the netlist inside the core , we have seen that netlist completely o
 
 ![Screenshot 2024-10-06 103640](https://github.com/user-attachments/assets/d520aa3a-f585-4649-a52b-2c6a5691a615)
 
-Utilization factor is given by Area occupied by the netlist to Total Area of core 
+Utilization factor is given by Area occupied by the netlist to Total Area of core
+
+![Screenshot 2024-10-06 103640](https://github.com/user-attachments/assets/9f9cd759-85fb-4967-837a-a47003fa7b53)
 
 Aspect Ratio is given by Height to the Width of the core 
 
