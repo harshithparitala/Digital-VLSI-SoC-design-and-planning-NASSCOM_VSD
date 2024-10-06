@@ -19,6 +19,8 @@ If we bring all the standard cells and flip flops together and caluclate the are
 
 If we place the netlist inside the core , we have seen that netlist completely occupies the core which means it has 100% utilization  of the core 
 
+![Screenshot 2024-10-06 103640](https://github.com/user-attachments/assets/d520aa3a-f585-4649-a52b-2c6a5691a615)
+
 Utilization factor is given by Area occupied by the netlist to Total Area of core 
 
 Aspect Ratio is given by Height to the Width of the core 
