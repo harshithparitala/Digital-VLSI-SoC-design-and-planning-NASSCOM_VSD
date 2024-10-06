@@ -21,3 +21,4 @@ If these blocks are replicated multiple times on the chip, We implement this blo
 
 Similarly there are other IP's are also avaliable. These are called pre-placed cells.
 
+![Screenshot 2024-10-06 113633](https://github.com/user-attachments/assets/6be43725-f05b-42b5-a9b9-f831a13110ad)
