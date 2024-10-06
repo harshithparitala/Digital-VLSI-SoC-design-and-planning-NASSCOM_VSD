@@ -25,9 +25,11 @@ Utilization factor is given by Area occupied by the netlist to Total Area of cor
 
 ![Screenshot 2024-10-06 103640](https://github.com/user-attachments/assets/9f9cd759-85fb-4967-837a-a47003fa7b53)
 
-Aspect Ratio is given by Height to the Width of the core 
+Aspect Ratio is given by Height to the Width of the core .
 
 Another example where the dimensions of the netlist is same and core is different 
+![Screenshot 2024-10-06 103713](https://github.com/user-attachments/assets/38922f37-b0dd-40ce-bee5-beffd35e40aa)
 
 In this case the utilization factor is 0.5
+And Aspect ratio is also 0.5
 
