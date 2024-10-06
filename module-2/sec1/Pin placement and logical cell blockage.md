@@ -33,4 +33,5 @@ Pin placement creates hand checking frontend and backend ,
 Clk ports are bigger in size  because it is continously driving all thw cells and sends the signals to all the flipflops 
 The area between die and core blocks for cell placement and it is reserved for pins .
 
+![image](https://github.com/user-attachments/assets/53c0c696-46ac-4b3a-918e-a40e31ba2c0f)
 
