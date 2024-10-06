@@ -17,5 +17,7 @@ These blocks are considered as Black box .
 
 If these blocks are replicated multiple times on the chip, We implement this block once and reused multiple times whenever it requires in the cihp.
 
+![Screenshot 2024-10-06 113613](https://github.com/user-attachments/assets/c08ed8a3-62f3-4369-a9c6-e0fb8264822d)
+
 Similarly there are other IP's are also avaliable. These are called pre-placed cells.
 
