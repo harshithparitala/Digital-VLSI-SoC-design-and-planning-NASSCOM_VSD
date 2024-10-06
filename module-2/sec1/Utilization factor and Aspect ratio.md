@@ -8,10 +8,10 @@ Let's take an example of basic netlist consists of two flipflops and logic gates
 
 ![Screenshot 2024-10-06 103537](https://github.com/user-attachments/assets/e0e31ced-9a20-47e2-ae46-70af543fad70)
 
-In this we are dependent on the dimensiions of logic gates and flipflops 
-
-
+In this we are dependent on the dimensiions of logic gates and flipflops ,
 lets assume standard cells are having an area of 1sq.unit and same are for flipflops as well
+
+![Screenshot 2024-10-06 103552](https://github.com/user-attachments/assets/dd9a07af-9991-450d-a626-b13241f0caf1)
 
 If we bring all the standard cells and flip flops together and caluclate the are area gives the minium area occupied by the netlist
 
