@@ -20,9 +20,8 @@ Asuume another section with same design which has two flipflops and two differen
 ![image](https://github.com/user-attachments/assets/80cc86fb-fce2-47c6-a3ec-8f590370d2a1)
 
 
-Complete design look like 
+Complete design look like and  We connect clk 1 and clk2 
 
-We connect clk 1 and clk2 , 
 
 We fill the area between core and die with these ports 
 
