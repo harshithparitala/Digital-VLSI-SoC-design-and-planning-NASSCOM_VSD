@@ -17,6 +17,8 @@ Asuume another section with same design which has two flipflops and two differen
 
 ![image](https://github.com/user-attachments/assets/fd4aaf1f-674c-4b42-9068-4b5d117e98d1)
 
+![image](https://github.com/user-attachments/assets/80cc86fb-fce2-47c6-a3ec-8f590370d2a1)
+
 
 Complete design look like 
 
