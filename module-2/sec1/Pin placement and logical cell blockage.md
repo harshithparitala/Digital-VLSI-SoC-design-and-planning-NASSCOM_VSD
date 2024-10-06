@@ -15,6 +15,9 @@ along with there are pre placed cells connect with din and output are connect to
 
 Asuume another section with same design which has two flipflops and two different clks  and another one with same but opposite clocks and block c pre placed cell is connected 
 
+![image](https://github.com/user-attachments/assets/fd4aaf1f-674c-4b42-9068-4b5d117e98d1)
+
+
 Complete design look like 
 
 We connect clk 1 and clk2 , 
