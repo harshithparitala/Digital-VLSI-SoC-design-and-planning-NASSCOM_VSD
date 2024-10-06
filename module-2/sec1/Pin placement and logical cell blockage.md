@@ -27,10 +27,10 @@ Complete design look like and  We connect clk 1 and clk2
 We fill the area between core and die with these ports and 
 We place all the input ports on left hand side and output at right hand side  and ordering will be random
 
+![image](https://github.com/user-attachments/assets/02c405b4-99b4-4ad4-91d6-0a28bfebdde1)
+
 Pin placement creates hand checking frontend and backend ,
-
 Clk ports are bigger in size  because it is continously driving all thw cells and sends the signals to all the flipflops 
-
 The area between die and core blocks for cell placement and it is reserved for pins .
 
 
