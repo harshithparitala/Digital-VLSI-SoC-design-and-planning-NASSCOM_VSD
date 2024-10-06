@@ -6,6 +6,8 @@ drive by clock 1
 ![image](https://github.com/user-attachments/assets/04f25190-aee1-420d-ae24-532bb20005f8)
 driven by clk 2
 
+![image](https://github.com/user-attachments/assets/cbbb8b61-dd31-4924-94a8-42d4544da4cf)
+
 along with there are pre placed cells connect with din and output are connect to logic gates and another pre plced cell block b takes input from clks and give clock out
 
 
