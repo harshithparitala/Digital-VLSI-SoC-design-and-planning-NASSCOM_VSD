@@ -2,7 +2,7 @@ Titile :Utilization factor and Aspect ratio
 --------------------------------------------
 
 In the physical design flow the first step is defining the height and width of the core
-
+![Screenshot 2024-10-06 103517](https://github.com/user-attachments/assets/55cbf2f4-132a-4c1c-9cc3-e1c8d83e9402)
 
 Let's take an example of basic netlist consists of two flipflops and logic gates
 
