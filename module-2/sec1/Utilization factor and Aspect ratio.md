@@ -15,6 +15,8 @@ lets assume standard cells are having an area of 1sq.unit and same are for flipf
 
 If we bring all the standard cells and flip flops together and caluclate the are area gives the minium area occupied by the netlist
 
+![Screenshot 2024-10-06 103615](https://github.com/user-attachments/assets/bcda6bb0-055f-495d-8914-8afcb65d0a77)
+
 If we place the netlist inside the core , we have seen that netlist completely occupies the core which means it has 100% utilization  of the core 
 
 Utilization factor is given by Area occupied by the netlist to Total Area of core 
