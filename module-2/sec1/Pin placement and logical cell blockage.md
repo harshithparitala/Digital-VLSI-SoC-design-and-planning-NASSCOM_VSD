@@ -22,9 +22,9 @@ Asuume another section with same design which has two flipflops and two differen
 
 Complete design look like and  We connect clk 1 and clk2 
 
+![image](https://github.com/user-attachments/assets/25830606-bb08-4a2f-9571-c669b1757432)
 
-We fill the area between core and die with these ports 
-
+We fill the area between core and die with these ports and 
 We place all the input ports on left hand side and output at right hand side  and ordering will be random
 
 Pin placement creates hand checking frontend and backend ,
