@@ -16,4 +16,5 @@ After placing the pre placed cells in the core , we need to surround them with t
 
  whenever switching happen decoupling capacitor will the current to circuit and these are placed very close to the circuit 
 
- 
+ ![Screenshot 2024-10-06 121012](https://github.com/user-attachments/assets/c8149a7c-8595-47ac-9f08-39a67413a1d7)
+
