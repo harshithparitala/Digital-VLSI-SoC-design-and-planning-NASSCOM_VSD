@@ -1,7 +1,9 @@
 This following file contains the Lab sections on chip floor planning considerations and it has three sections 
 
 Step to Floor Planning using Open lane 
+------
 Review floor plan files and steps to view floorplan
+---
 Review floorplan layout in Magic
 ---------------------------------
 Let's move to OpenLANE and understand the concepts of floorplanning and automatic place and route.
