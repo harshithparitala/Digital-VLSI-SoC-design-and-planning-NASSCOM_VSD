@@ -8,10 +8,11 @@ After placing the pre placed cells in the core , we need to surround them with t
 ![Screenshot 2024-10-06 120848](https://github.com/user-attachments/assets/7c7aabdb-32e8-40f5-86b8-25db971dba76)
 
  There will be some voltage drop across the wire and if the voltage vdd' is should be noise margin .
-
  Any voltage lies between Vil and Vih is undefined region , it's also called grey region.it can go either logic 0 or logic 1
 
  We can ensure that voltage never lies in undefined region with the help of Decoupling capacitors , These capacitors decouples the circuit from main supply
+ 
+![Screenshot 2024-10-06 120952](https://github.com/user-attachments/assets/918978d7-d1b1-4949-959f-76c8d7fb7a69)
 
  whenever switching happen decoupling capacitor will the current to circuit and these are placed very close to the circuit 
 
