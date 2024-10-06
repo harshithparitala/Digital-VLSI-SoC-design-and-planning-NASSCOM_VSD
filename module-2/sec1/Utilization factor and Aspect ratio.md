@@ -6,7 +6,10 @@ In the physical design flow the first step is defining the height and width of t
 
 Let's take an example of basic netlist consists of two flipflops and logic gates
 
+![Screenshot 2024-10-06 103537](https://github.com/user-attachments/assets/e0e31ced-9a20-47e2-ae46-70af543fad70)
+
 In this we are dependent on the dimensiions of logic gates and flipflops 
+
 
 lets assume standard cells are having an area of 1sq.unit and same are for flipflops as well
 
