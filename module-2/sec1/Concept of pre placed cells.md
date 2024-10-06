@@ -13,6 +13,8 @@ so, we cut /divide the circuit into differnt parts .
 lets assume circuit is divided into two parts and we separate into two different blocks and implemented separately 
 These blocks are considered as Black box .
 
+![Screenshot 2024-10-06 113556](https://github.com/user-attachments/assets/e1a64ef4-8f6e-4436-935e-2da2d43ef3cd)
+
 If these blocks are replicated multiple times on the chip, We implement this block once and reused multiple times whenever it requires in the cihp.
 
 Similarly there are other IP's are also avaliable. These are called pre-placed cells.
