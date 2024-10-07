@@ -22,7 +22,8 @@ Example
 ![image](https://github.com/user-attachments/assets/bd573487-8233-4edb-bf3d-b97ccbdf9454)
 
  In this scenario  FF1 is close to DIN and FF2 is close to DOUT , logic gates between them Simillarly we arange all three sections of netlist .
-
+ 
+![image](https://github.com/user-attachments/assets/a9db05cd-fa6d-4891-9dad-a3fc4646133e)
 
  Optimize placement:
  --
