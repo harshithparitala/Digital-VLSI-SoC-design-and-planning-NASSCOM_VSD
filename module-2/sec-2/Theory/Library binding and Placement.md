@@ -75,6 +75,7 @@ The final thing is Static Timing Analysis in which we try to find setup time, ho
 
 One common thing across all the stages are "GATES or CELLS".
 
+![image](https://github.com/user-attachments/assets/83a78f21-00a2-403b-a793-b28532e0a3dc)
 
 
  
