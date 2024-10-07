@@ -42,7 +42,9 @@ connecting sec-2:
 
 connecting sec-3:
 
+![image](https://github.com/user-attachments/assets/b9a278b6-3684-4085-9804-75ab42e5c35a)
 
+Connecting SEC-4
 
 
 Need for Charachterization:
