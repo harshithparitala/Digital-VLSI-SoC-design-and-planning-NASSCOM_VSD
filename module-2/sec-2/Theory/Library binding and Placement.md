@@ -7,6 +7,7 @@ Lets say we have this netlist with all these gates,the shapes of these gates rep
 
 In reality we have only boxes these flipflops and logic gates are represent using boxes which has physical dimensions.The netlist will look like this if we use boxes.
 
+![image](https://github.com/user-attachments/assets/c838f146-8ee4-4812-b965-ef907dc7f87a)
 
 If all these netlist as well as pre placed cells are present in a shell is called a library 
 
