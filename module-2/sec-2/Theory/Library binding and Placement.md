@@ -9,11 +9,11 @@ In reality we have only boxes these flipflops and logic gates are represent usin
 
 ![image](https://github.com/user-attachments/assets/c838f146-8ee4-4812-b965-ef907dc7f87a)
 
-If all these netlist as well as pre placed cells are present in a shell is called a library 
-
+If all these netlist as well as pre placed cells are present in a shell is called a library ,
 library is is where we find all the information about netlist and its timing .library also has various shapes of these particular gates 
 
 Example
+![image](https://github.com/user-attachments/assets/d3c89bf6-0106-4089-81bb-60334d96a538)
 
 
  After given proper shape and sizes the next step is to take the gates and place it on floor plan.
