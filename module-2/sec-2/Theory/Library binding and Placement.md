@@ -65,6 +65,9 @@ The next step is placemwnt we take the logic cells and place it on the chip in a
 The next step is Clock Tree Synthesis .We place Clock tree that will take care of clock signal reaching at each and every clock end points
 After this we will Route the cells .Routing step depends on the charachterization of cell
 
+![image](https://github.com/user-attachments/assets/6caafb5a-20df-4997-b397-7cf20347de28)
+
+
 The final thing is Static Timing Analysis in which we try to find setup time, holdtime and the maximum frequency of the clock 
 
 
