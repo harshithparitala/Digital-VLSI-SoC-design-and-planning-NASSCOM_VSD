@@ -13,12 +13,13 @@ If all these netlist as well as pre placed cells are present in a shell is calle
 library is is where we find all the information about netlist and its timing .library also has various shapes of these particular gates 
 
 Example
+
 ![image](https://github.com/user-attachments/assets/d3c89bf6-0106-4089-81bb-60334d96a538)
 
-
- After given proper shape and sizes the next step is to take the gates and place it on floor plan.
-
+ After given proper shape and sizes the next step is to take the gates and place it on floor plan
  We have the netlist and floorplan along withe pre placed cells . we place the gates in fllorplan
+ 
+![image](https://github.com/user-attachments/assets/bd573487-8233-4edb-bf3d-b97ccbdf9454)
 
  In this scenario  FF1 is close to DIN and FF2 is close to DOUT , logic gates between them Simillarly we arange all three sections of netlist .
 
