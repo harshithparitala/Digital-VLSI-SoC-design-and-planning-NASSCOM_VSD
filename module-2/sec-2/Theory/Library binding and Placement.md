@@ -30,8 +30,13 @@ Example
 Optimization is the process of iterating through a design such that it meets timing, area and power specifications
 In this we will estimate the wire length , capacitence etc.,
 
+connecting sec-1 :
+
+![image](https://github.com/user-attachments/assets/2ae00022-62f3-408e-824e-a75c3c75adfa)
+
 For sec 2,Between Din2 and FF1. The wire length will be area and it huge and because of huge length it will has more resistance so we will place the buffers to tramsit the signals without lossing the data ,but there is a loss of area .
 
+connecting sec-2:
 
 
 
