@@ -70,6 +70,8 @@ After this we will Route the cells .Routing step depends on the charachterizatio
 
 The final thing is Static Timing Analysis in which we try to find setup time, holdtime and the maximum frequency of the clock 
 
+![image](https://github.com/user-attachments/assets/9e13ac3f-9942-4eb0-847d-a77e2d1c3bdf)
+
 
 One common thing across all the stages are "GATES or CELLS".
 
