@@ -52,6 +52,9 @@ Connecting SEC-4
 Need for Charachterization:
 ---
 Ic design flow:
+
+![image](https://github.com/user-attachments/assets/f396c352-a55e-4899-b26a-6e79b3e95150)
+
 The first step is logic synthesis which is reffered as converting the functionality into legal hardware
 The output of Logic synthesis is arrangement of gates that will represents the original functionality that is designed using RTL
 
