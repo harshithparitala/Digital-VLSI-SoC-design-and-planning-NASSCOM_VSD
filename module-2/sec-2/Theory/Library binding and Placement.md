@@ -3,6 +3,8 @@ Netlist Binding and Intial Place design
 The first step in this is bind the netlist with the physical cells 
 Lets say we have this netlist with all these gates,the shapes of these gates represents the functionality of the gates.
 
+![image](https://github.com/user-attachments/assets/19e03a36-f395-465a-ba68-c5a5885e9227)
+
 In reality we have only boxes these flipflops and logic gates are represent using boxes which has physical dimensions.The netlist will look like this if we use boxes.
 
 
