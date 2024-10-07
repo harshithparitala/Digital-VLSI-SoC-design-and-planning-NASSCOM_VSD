@@ -38,6 +38,10 @@ For sec 2,Between Din2 and FF1. The wire length will be area and it huge and bec
 
 connecting sec-2:
 
+![image](https://github.com/user-attachments/assets/a170ca7a-969a-4361-84a2-7355c9032a65)
+
+connecting sec-3:
+
 
 
 
