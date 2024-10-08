@@ -7,20 +7,18 @@ These Standard Cells are placed in Library
 
 Library has different gates with different functionality but also got different cells with different sizes.These are the physical characterization of the cells
 
+![Screenshot 2024-10-08 152205](https://github.com/user-attachments/assets/c239416c-d64e-4b17-8aae-3dea4e15522c)
 If we take a particular cell lets take an inverter it has different threshold voltages and take more time to .
 
 Cell Design Flow
 ---
-
 Cells design flow has three steps 
+
+![Screenshot 2024-10-08 152220](https://github.com/user-attachments/assets/62b5ead3-5e95-414a-a2e9-760eb07857ac)
 
 Inputs:
 --
-
 Foundary provides PDKS it consists of DRC AND LVS rules and Spice modals 
-
-![Screenshot 2024-10-08 152205](https://github.com/user-attachments/assets/c239416c-d64e-4b17-8aae-3dea4e15522c)
-![Screenshot 2024-10-08 152220](https://github.com/user-attachments/assets/62b5ead3-5e95-414a-a2e9-760eb07857ac)
 ![Screenshot 2024-10-08 152245](https://github.com/user-attachments/assets/0c241abc-9fa5-472f-9560-84dbf15cd642)
 ![Screenshot 2024-10-08 152307](https://github.com/user-attachments/assets/e8be5bec-5708-48de-9e94-692ebbc1feea)
 
