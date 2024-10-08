@@ -18,7 +18,8 @@ Cells design flow has three steps
 
 Inputs:
 --
-Foundary provides PDKS it consists of DRC AND LVS rules and Spice modals 
+Foundary provides PDKS it consists of DRC AND LVS rules and Spice models 
+
 ![Screenshot 2024-10-08 152245](https://github.com/user-attachments/assets/0c241abc-9fa5-472f-9560-84dbf15cd642)
 ![Screenshot 2024-10-08 152307](https://github.com/user-attachments/assets/e8be5bec-5708-48de-9e94-692ebbc1feea)
 
