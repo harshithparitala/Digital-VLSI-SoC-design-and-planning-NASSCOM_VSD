@@ -42,13 +42,16 @@ Propogation Delay:
 
 The difference between out threshold and input threshold is known as propogation delay 
 
+![Screenshot 2024-10-08 195308](https://github.com/user-attachments/assets/4dd00af9-6a31-456f-b2b5-454ed4b1f449)
 
+Example:
+-
 
+![Screenshot 2024-10-08 195344](https://github.com/user-attachments/assets/46c907e9-1c4d-419f-92da-81fed1a74bc3)
 
 Transition time:
 --
-
-
+![Screenshot 2024-10-08 195532](https://github.com/user-attachments/assets/34457052-5d4e-4470-8c3d-c4d9c053e918)
 
 
 
