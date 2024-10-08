@@ -23,3 +23,44 @@ Foundary provides PDKS it consists of DRC AND LVS rules and Spice models
 ![Screenshot 2024-10-08 152245](https://github.com/user-attachments/assets/0c241abc-9fa5-472f-9560-84dbf15cd642)
 ![Screenshot 2024-10-08 152307](https://github.com/user-attachments/assets/e8be5bec-5708-48de-9e94-692ebbc1feea)
 
+Library and User designer Specs :
+
+Design Step :
+--
+i)Circuit-Design:
+
+Using the input we will design cells
+It has two steps :
+i)Implement the functionality of the cell
+ii)modal the pmos and cmos transistor based on requriments 
+
+
+ii) Layout -Design:
+ 1) In layout Design,we do implementation of function using pmos and nmos 
+
+ 2) To derive the pmos and n mos graph using EULIER'S PATH
+
+Eulier's Path:
+The path that is traced only once
+
+The next step is Draw the stick Diagram ,based on the circuit we connect the stick diagram
+
+
+
+Characterization Flow:
+--
+We have layout of the buffer and two inverters connected back to back along with pulses and spice netlist
+
+It has sub circuit model in which actual pmos and n mos specifications are present.In sub circuits we have spice models.
+
+Charachterization flow:
+ 1) Reading the models and tech files
+ 2) Read the extracted spice netlist
+ 3) Define or recognize the behaviour of buffer
+ 4) read the sub circuits of inverter
+ 5) Attach the necessary power supply
+ 6) Applying the stimulus
+ 7) Necessary putput capacitors
+ 8) Necessary simulation commands
+
+These steps are feed in characterization software called GUNA and we generate Timing noise ,Power.libs etc.,
