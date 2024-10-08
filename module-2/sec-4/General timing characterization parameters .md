@@ -37,6 +37,16 @@ simmilarly for falling wave form:
 ![Screenshot 2024-10-08 193811](https://github.com/user-attachments/assets/101a104a-2a46-431e-b1ab-835881378588)
 
 
+Propogation Delay:
+---
+
+The difference between out threshold and input threshold is known as propogation delay 
+
+
+
+
+Transition time:
+--
 
 
 
