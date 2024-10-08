@@ -23,11 +23,12 @@ Slow_high_rise_thr: it depicts value close to top power supply . The typical val
 similar for falling waveform:
 
 ![Screenshot 2024-10-08 193653](https://github.com/user-attachments/assets/12e56001-f785-4396-8785-97f88b9e3e40)
-![Screenshot 2024-10-08 193718](https://github.com/user-attachments/assets/d57e58a3-8303-4bd9-bb50-0831d57ba2e5)
 
 in_rise_thr: typicaly 50%
 in-RED
 out-BLUE
+
+![Screenshot 2024-10-08 193718](https://github.com/user-attachments/assets/d57e58a3-8303-4bd9-bb50-0831d57ba2e5)
 
 ![Screenshot 2024-10-08 193748](https://github.com/user-attachments/assets/8a828dfa-3581-49c1-bdf7-af1a0e00800b)
 
